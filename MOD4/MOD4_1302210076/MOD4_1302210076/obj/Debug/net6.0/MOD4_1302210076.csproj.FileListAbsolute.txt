@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\Documents\Jurnal_mod4\MOD4\MOD4_1302210076\MOD4_1302210076\obj\Debug\net6.0\MOD4_1302210076.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\Jurnal_mod4\MOD4\MOD4_1302210076\MOD4_1302210076\obj\Debug\net6.0\MOD4_1302210076.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\Jurnal_mod4\MOD4\MOD4_1302210076\MOD4_1302210076\obj\Debug\net6.0\MOD4_1302210076.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\Jurnal_mod4\MOD4\MOD4_1302210076\MOD4_1302210076\obj\Debug\net6.0\MOD4_1302210076.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\Jurnal_mod4\MOD4\MOD4_1302210076\MOD4_1302210076\obj\Debug\net6.0\MOD4_1302210076.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\Jurnal_mod4\MOD4\MOD4_1302210076\MOD4_1302210076\bin\Debug\net6.0\MOD4_1302210076.exe
+C:\Users\PRAKTIKAN\Documents\Jurnal_mod4\MOD4\MOD4_1302210076\MOD4_1302210076\bin\Debug\net6.0\MOD4_1302210076.deps.json
+C:\Users\PRAKTIKAN\Documents\Jurnal_mod4\MOD4\MOD4_1302210076\MOD4_1302210076\bin\Debug\net6.0\MOD4_1302210076.runtimeconfig.json
+C:\Users\PRAKTIKAN\Documents\Jurnal_mod4\MOD4\MOD4_1302210076\MOD4_1302210076\bin\Debug\net6.0\MOD4_1302210076.dll
+C:\Users\PRAKTIKAN\Documents\Jurnal_mod4\MOD4\MOD4_1302210076\MOD4_1302210076\bin\Debug\net6.0\MOD4_1302210076.pdb
+C:\Users\PRAKTIKAN\Documents\Jurnal_mod4\MOD4\MOD4_1302210076\MOD4_1302210076\obj\Debug\net6.0\MOD4_1302210076.dll
+C:\Users\PRAKTIKAN\Documents\Jurnal_mod4\MOD4\MOD4_1302210076\MOD4_1302210076\obj\Debug\net6.0\refint\MOD4_1302210076.dll
+C:\Users\PRAKTIKAN\Documents\Jurnal_mod4\MOD4\MOD4_1302210076\MOD4_1302210076\obj\Debug\net6.0\MOD4_1302210076.pdb
+C:\Users\PRAKTIKAN\Documents\Jurnal_mod4\MOD4\MOD4_1302210076\MOD4_1302210076\obj\Debug\net6.0\MOD4_1302210076.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Documents\Jurnal_mod4\MOD4\MOD4_1302210076\MOD4_1302210076\obj\Debug\net6.0\ref\MOD4_1302210076.dll
